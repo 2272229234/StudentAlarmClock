@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C44F2C771A6A20F3007DAF69 /* FinalAlarmViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C44F2C761A6A20F3007DAF69 /* FinalAlarmViewController.m */; };
+		C4A8B5661A63808300C6901E /* CourseTypeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4A8B5651A63808300C6901E /* CourseTypeViewController.m */; };
+		C4BC16C71A5E4A9F0012904C /* homepage-icon-get-started.png in Resources */ = {isa = PBXBuildFile; fileRef = C4BC16C61A5E4A9F0012904C /* homepage-icon-get-started.png */; };
+		C4C064511A63874E002A664E /* AlarmSetupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4C064501A63874E002A664E /* AlarmSetupViewController.m */; };
+		C4E45C9B1A663CF20054C3A9 /* type_1.png in Resources */ = {isa = PBXBuildFile; fileRef = C4E45C991A663CF20054C3A9 /* type_1.png */; };
+		C4E45C9C1A663CF20054C3A9 /* type_2.png in Resources */ = {isa = PBXBuildFile; fileRef = C4E45C9A1A663CF20054C3A9 /* type_2.png */; };
 		C4FB7F771A5E39320054B45C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C4FB7F761A5E39320054B45C /* main.m */; };
 		C4FB7F7A1A5E39320054B45C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C4FB7F791A5E39320054B45C /* AppDelegate.m */; };
 		C4FB7F7D1A5E39320054B45C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4FB7F7C1A5E39320054B45C /* ViewController.m */; };
@@ -27,6 +33,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C44F2C751A6A20F3007DAF69 /* FinalAlarmViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FinalAlarmViewController.h; sourceTree = "<group>"; };
+		C44F2C761A6A20F3007DAF69 /* FinalAlarmViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FinalAlarmViewController.m; sourceTree = "<group>"; };
+		C4A8B5641A63808300C6901E /* CourseTypeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CourseTypeViewController.h; sourceTree = "<group>"; };
+		C4A8B5651A63808300C6901E /* CourseTypeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CourseTypeViewController.m; sourceTree = "<group>"; };
+		C4BC16C61A5E4A9F0012904C /* homepage-icon-get-started.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "homepage-icon-get-started.png"; sourceTree = "<group>"; };
+		C4C0644F1A63874E002A664E /* AlarmSetupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlarmSetupViewController.h; sourceTree = "<group>"; };
+		C4C064501A63874E002A664E /* AlarmSetupViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AlarmSetupViewController.m; sourceTree = "<group>"; };
+		C4E45C991A663CF20054C3A9 /* type_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = type_1.png; sourceTree = "<group>"; };
+		C4E45C9A1A663CF20054C3A9 /* type_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = type_2.png; sourceTree = "<group>"; };
 		C4FB7F711A5E39320054B45C /* StudentAlarmClock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StudentAlarmClock.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4FB7F751A5E39320054B45C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C4FB7F761A5E39320054B45C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -85,6 +100,12 @@
 				C4FB7F791A5E39320054B45C /* AppDelegate.m */,
 				C4FB7F7B1A5E39320054B45C /* ViewController.h */,
 				C4FB7F7C1A5E39320054B45C /* ViewController.m */,
+				C4A8B5641A63808300C6901E /* CourseTypeViewController.h */,
+				C4A8B5651A63808300C6901E /* CourseTypeViewController.m */,
+				C4C0644F1A63874E002A664E /* AlarmSetupViewController.h */,
+				C4C064501A63874E002A664E /* AlarmSetupViewController.m */,
+				C44F2C751A6A20F3007DAF69 /* FinalAlarmViewController.h */,
+				C44F2C761A6A20F3007DAF69 /* FinalAlarmViewController.m */,
 				C4FB7F7E1A5E39320054B45C /* Main.storyboard */,
 				C4FB7F811A5E39320054B45C /* Images.xcassets */,
 				C4FB7F831A5E39320054B45C /* LaunchScreen.xib */,
@@ -96,6 +117,9 @@
 		C4FB7F741A5E39320054B45C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C4E45C991A663CF20054C3A9 /* type_1.png */,
+				C4E45C9A1A663CF20054C3A9 /* type_2.png */,
+				C4BC16C61A5E4A9F0012904C /* homepage-icon-get-started.png */,
 				C4FB7F751A5E39320054B45C /* Info.plist */,
 				C4FB7F761A5E39320054B45C /* main.m */,
 			);
@@ -200,7 +224,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				C4FB7F801A5E39320054B45C /* Main.storyboard in Resources */,
+				C4E45C9C1A663CF20054C3A9 /* type_2.png in Resources */,
 				C4FB7F851A5E39320054B45C /* LaunchScreen.xib in Resources */,
+				C4E45C9B1A663CF20054C3A9 /* type_1.png in Resources */,
+				C4BC16C71A5E4A9F0012904C /* homepage-icon-get-started.png in Resources */,
 				C4FB7F821A5E39320054B45C /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -222,6 +249,9 @@
 				C4FB7F7D1A5E39320054B45C /* ViewController.m in Sources */,
 				C4FB7F7A1A5E39320054B45C /* AppDelegate.m in Sources */,
 				C4FB7F771A5E39320054B45C /* main.m in Sources */,
+				C4C064511A63874E002A664E /* AlarmSetupViewController.m in Sources */,
+				C4A8B5661A63808300C6901E /* CourseTypeViewController.m in Sources */,
+				C44F2C771A6A20F3007DAF69 /* FinalAlarmViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -344,6 +374,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = StudentAlarmClock/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -354,6 +385,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = StudentAlarmClock/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -412,6 +444,7 @@
 				C4FB7F961A5E39320054B45C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C4FB7F971A5E39320054B45C /* Build configuration list for PBXNativeTarget "StudentAlarmClockTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +453,7 @@
 				C4FB7F991A5E39320054B45C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

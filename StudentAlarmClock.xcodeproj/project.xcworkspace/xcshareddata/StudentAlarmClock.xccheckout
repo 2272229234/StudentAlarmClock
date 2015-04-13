@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3234AFBE-E240-4F91-9428-97EA82286EC2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>StudentAlarmClock</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BAA78410E0923C81DA59639E52286C7341EE04D1</key>
+		<string>https://github.com/bguan2013/StudentAlarmClock.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>StudentAlarmClock.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BAA78410E0923C81DA59639E52286C7341EE04D1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bguan2013/StudentAlarmClock.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BAA78410E0923C81DA59639E52286C7341EE04D1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BAA78410E0923C81DA59639E52286C7341EE04D1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StudentAlarmClock</string>
+		</dict>
+	</array>
+</dict>
+</plist>
